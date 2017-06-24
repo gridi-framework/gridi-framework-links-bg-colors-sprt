@@ -1,0 +1,8 @@
+$a-background-colors-support-parser: (
+    color: 'background-inner-color',
+    hover-color: 'hover-background-inner-color'
+) !default;
+
+
+$a-background-colors-support-extra-colors-palette: () !default;
+$a-background-colors-support-skip-colors-palette: null !default;
